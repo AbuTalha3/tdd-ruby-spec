@@ -10,7 +10,7 @@
 
 ## 📗 Table of Contents
 
-- [📖 TDD ](#-about-project-)
+- [📖 TDD-RUBY-SPEC PROJECT ](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -30,8 +30,7 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-**TTD PROJECT** is app where users can
-In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
+**TDD-RUBY-SPEC PROJECT** In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -120,7 +119,7 @@ it will install the required gemfile for running the project
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://git@github.com:AbuTalha3/Test-driven_development/issues).
+Feel free to check the [issues page](https://github.com/AbuTalha3/tdd-ruby-spec/issues ).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
