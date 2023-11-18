@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1><b>TDD-RUBY-SPEC PROJECT</b></h1>
-  <img>![Ruby-TDD](image.png)</img>
+  <img>![Ruby-TDD](./spec/OIG.jpeg)</img>
 
 </div>
 
