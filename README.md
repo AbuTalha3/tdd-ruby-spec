@@ -10,7 +10,7 @@
 
 ## 📗 Table of Contents
 
-- [📖 TDD ](#-about-project-)
+- [📖 TDD-RUBY-SPEC PROJECT ](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,9 +28,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TDD <a name="about-project"></a>
+# 📖 TDD-RUBY-SPEC PROJECT <a name="about-project"></a>
 
-**TTD PROJECT** is app where users can
+**TDD-RUBY-SPEC PROJECT** is app where users can
 In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
 ## 🛠 Built With <a name="built-with"></a>
 
