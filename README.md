@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>TDD-RUBY-SPEC PROJECT</b></h1>
+  <h1><b>TDD-RUBY-SPEC-PROJECT</b></h1>
 
 </div>
 
