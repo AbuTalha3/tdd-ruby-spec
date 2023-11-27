@@ -100,6 +100,7 @@ it will install the required gemfile for running the project
 
 - GitHub: [@Abu Talha](https://github.com/abutalha3)
 - Twitter: [@Abu Tallha](https://twitter.com/AbuTalha8T)
+- Linkedin: [@Abu Talha](https://www.linkedin.com/in/abu-talha-najeeb-akhun-8203b252/)
 
 <-- LinkedIn: has been blocked due to some issue-->
 
