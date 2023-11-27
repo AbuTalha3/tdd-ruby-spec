@@ -30,7 +30,7 @@
 
 # 📖 TDD-RUBY-SPEC-PROJECT <a name="about-project"></a>
 
-**TDD-RUBY-SPEC PROJECT** In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
+**TDD-RUBY-SPEC PROJECT** In this project we implemented a class with some methods, we did it by doing test-driven-development (TDD).
 
 ## 🛠 Built With <a name="built-with"></a>
 
